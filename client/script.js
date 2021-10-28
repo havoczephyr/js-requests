@@ -181,7 +181,8 @@ queryButton.addEventListener('click', queryRequest)
     1: Send no queries on the URL -- what happened? 
     it returned "you sent an empty query!"
 
-    2: Send more than 1 query on the URL -- what happened? 
+    2: Send more than 1 query on the URL -- what happened?
+    it returned "you sent more then one query!" 
 */
 
 // Edit code in Problem 8
